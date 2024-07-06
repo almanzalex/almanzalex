@@ -5,4 +5,3 @@ I'm currently interested in seeking software engineering opportunities with the 
 Right now, I'm diving into web development by learning React and Node.
 
 
-
